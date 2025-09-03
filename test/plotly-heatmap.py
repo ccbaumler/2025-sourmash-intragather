@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("single_matrix.tsv", sep='\t', index_col=0)
+df = pd.read_csv("jaccard_matrix.csv", sep=',', index_col=0)
 
 app = Dash(__name__)
 
