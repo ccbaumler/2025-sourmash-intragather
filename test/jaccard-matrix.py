@@ -25,14 +25,14 @@ def main(sigfile):
 
     # Compute pairwise Jaccard similarities
     print("Computing Jaccard similarities...\n")
-    print("," + ",".join(f"sig{i}" for i in range(len(db))))
+    print("\t" + "\t".join(f"{i.name}" for i in db.signatures()))
 
     for n, ss1 in enumerate(db.signatures()):
-        row = [f"sig{n}"]
+        row = [f"{ss1.name}"]
         for j, ss2 in enumerate(db.signatures()):
             similarity = compute_jaccard(ss1, ss2)
             row.append(f"{similarity:.4f}")
-        print(",".join(row))
+        print("\t".join(row))
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description="Compute pairwise Jaccard similarity from a Sourmash sketch collection.")
