@@ -7,11 +7,8 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 
-# Load your Jaccard similarity matrix
-# Assume it's a square CSV with headers and index
-df = pd.read_csv("podar_matrix.tsv", sep='\t', index_col=0)
+df = pd.read_csv("single_matrix.tsv", sep='\t', index_col=0)
 
-# Setup the Dash app
 app = Dash(__name__)
 
 app.layout = html.Div([
@@ -72,4 +69,3 @@ def update_heatmap(threshold_range):
 
 if __name__ == "__main__":
     app.run(debug=True)
-
