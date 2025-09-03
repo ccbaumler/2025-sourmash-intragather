@@ -1,0 +1,7 @@
+query_filename,query_name,query_md5,match_name,match_md5,intersect_bp
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,1774
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCA_008727395 s__Campylobacter_D coli",1eb767174c99a1a07c12ca6c8df43618,90
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCA_039646005 s__Campylobacter_D jejuni",6aee33ea8356a54379e54bcdcabf3aef,110
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCA_039518365 s__Campylobacter_D coli_B",a99af41b29b809b600e8adc5aae1ce62,66
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCA_039519115 s__Campylobacter_D coli_A",3b113734a814d897726815c2ed760c42,64
+,"GCA_002179165 s__Campylobacter_D jejuni_B",7629f294ea06e6a30830b335038e472c,"GCF_040008265 s__Campylobacter_D sp004378855",019f84f3ca3e8be3da5ab8e457d0d91e,56

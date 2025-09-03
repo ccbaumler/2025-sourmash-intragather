@@ -1,0 +1,11 @@
+query_filename,query_name,query_md5,match_name,match_md5,intersect_bp
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,1720
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_008727395 s__Campylobacter_D coli",1eb767174c99a1a07c12ca6c8df43618,496
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_039646005 s__Campylobacter_D jejuni",6aee33ea8356a54379e54bcdcabf3aef,973
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,163
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCF_036233805 s__Klebsiella pneumoniae",7a328ba47cf40f94661c872e17e51ae2,100
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCF_040716695 s__Escherichia coli",aee86ac6a82e843ae9c6e897660711dd,65
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCF_033791025 s__Campylobacter_D hepaticus",832e3cd72d2b242368f26a0e77eacb69,69
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_963557615 s__Campylobacter_D upsaliensis",a12998a969e7d8779e70f788b001512c,71
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_039518365 s__Campylobacter_D coli_B",a99af41b29b809b600e8adc5aae1ce62,72
+,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,"GCA_039519115 s__Campylobacter_D coli_A",3b113734a814d897726815c2ed760c42,73

@@ -1,0 +1,8 @@
+query_filename,query_name,query_md5,match_name,match_md5,intersect_bp
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,1719
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_039646005 s__Campylobacter_D jejuni",6aee33ea8356a54379e54bcdcabf3aef,470
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_039519115 s__Campylobacter_D coli_A",3b113734a814d897726815c2ed760c42,71
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_008727395 s__Campylobacter_D coli",1eb767174c99a1a07c12ca6c8df43618,224
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_014305285 s__Campylobacter_D jejuni_D",984b1cdc940a529853a29eb2ed120120,163
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCA_039518365 s__Campylobacter_D coli_B",a99af41b29b809b600e8adc5aae1ce62,63
+,"GCA_000163995 s__Campylobacter_D jejuni_A",130ec6fe1f53969b300de0bef736bdbc,"GCF_036233805 s__Klebsiella pneumoniae",7a328ba47cf40f94661c872e17e51ae2,50

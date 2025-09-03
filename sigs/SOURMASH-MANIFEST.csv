@@ -1,0 +1,10 @@
+# SOURMASH-MANIFEST-VERSION: 1.0
+internal_location,md5,md5short,ksize,moltype,num,scaled,n_hashes,with_abundance,name,filename
+signatures/6aee33ea8356a54379e54bcdcabf3aef.sig.gz,6aee33ea8356a54379e54bcdcabf3aef,6aee33ea,31,DNA,0,1000,32786,True,GCA_039646005 s__Campylobacter_D jejuni,
+signatures/130ec6fe1f53969b300de0bef736bdbc.sig.gz,130ec6fe1f53969b300de0bef736bdbc,130ec6fe,31,DNA,0,1000,1719,True,GCA_000163995 s__Campylobacter_D jejuni_A,
+signatures/984b1cdc940a529853a29eb2ed120120.sig.gz,984b1cdc940a529853a29eb2ed120120,984b1cdc,31,DNA,0,1000,1720,True,GCA_014305285 s__Campylobacter_D jejuni_D,
+signatures/ff45b4db21157e52f7f9da8d48b25da0.sig.gz,ff45b4db21157e52f7f9da8d48b25da0,ff45b4db,31,DNA,0,1000,3487,True,GCF_024723675 s__Campylobacter_D jejuni_C,
+signatures/7629f294ea06e6a30830b335038e472c.sig.gz,7629f294ea06e6a30830b335038e472c,7629f294,31,DNA,0,1000,1774,True,GCA_002179165 s__Campylobacter_D jejuni_B,
+signatures/aee86ac6a82e843ae9c6e897660711dd.sig.gz,aee86ac6a82e843ae9c6e897660711dd,aee86ac6,31,DNA,0,1000,551478,True,GCF_040716695 s__Escherichia coli,
+signatures/948b555360a187015909358408f32333.sig.gz,948b555360a187015909358408f32333,948b5553,31,DNA,0,1000,33281,True,GCF_040713065 s__Escherichia coli_F,
+signatures/e754bfcd6a88a7e6c3750b397705fc31.sig.gz,e754bfcd6a88a7e6c3750b397705fc31,e754bfcd,31,DNA,0,1000,4755,True,GCA_023276905 s__Escherichia coli_E,

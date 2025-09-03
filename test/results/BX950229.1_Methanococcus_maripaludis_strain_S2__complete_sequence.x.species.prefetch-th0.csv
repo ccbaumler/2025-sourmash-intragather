@@ -1,0 +1,19 @@
+query_filename,query_name,query_md5,match_name,match_md5,intersect_bp
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_040362185 s__Methanococcus maripaludis",273b70261cc8207f149333c7012bb0a7,1635
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_000016125 s__Methanococcus maripaludis_D",4fcde47fa8b1e68ce4173be350ee2711,122
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_000017165 s__Methanococcus vannielii",7ca578d7126c653cf15be33df18c4281,11
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCA_937874295 s__Methanobacterium_D sp002494885",e4221f96a338cab70a6df883a4f8dd1c,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_013760955 s__Methanococcus maripaludis_A",7ea8814cd2295d2b60069a2e7854d376,104
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_024807035 s__Methanococcus voltae",358906f0617b2c05429fc761dccc4a5b,2
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_015523155 s__Methanofervidicoccus sp015523155",a49b9b9c73f0d17d3a1df41fa1763b88,2
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_000179575 s__Methanofervidicoccus okinawensis",c5a59b72ece6a3e262e24867d4f238df,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_963558595 s__Clostridium thermobutyricum",2a7f30dd59812352283f447ff89c88a4,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_030153405 s__Methanothermococcus thermolithotrophicus",ab1e0bda0e064a2024cdbbaaa7ccd72c,2
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_017875395 s__Methanococcus voltae_C",3766af30537468b6d2f777de1a591b86,2
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCA_902797085 s__Methanosphaera sp902797085",7d73a5dfbea73c78f49676c100add37f,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCA_030016755 s__JASEJC01 sp030016755",40d83a70272dac15bcd72040e4871f2c,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_025449255 s__Methanofervidicoccus aeolicus",80d7814fa42317dd4b21ec704d40062b,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_947072515 s__Clostridium sp947072515",677c2e6d3ebc570fa48f9b7dbd0d7452,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_017468685 s__Methanocatella sp017468685",c57e83c5f50cebbe52ff0811790ff413,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCA_040373355 s__Methanobacterium_D sp040373355",ef03af46466e59cbaa6f94a3d75453c3,1
+databases/podar-ref/30.fa,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",d45be194ffb4596d4fa8845dd89d8d8d,"GCF_024807655 s__Methanococcus voltae_D",e7e771ac9f2b7d1766613c2da1dd46d3,1
