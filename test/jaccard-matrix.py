@@ -12,7 +12,8 @@ def compute_jaccard(sig1, sig2):
     """Compute Jaccard similarity between two signatures (MinHash sketches)."""
     mh1 = sig1.minhash
     mh2 = sig2.minhash
-    return mh1.similarity(mh2)
+    common, usize = mh1.intersection_and_union_size(mh2)
+    return common
 
 def main(args):
     select_mh = sourmash_utils.create_minhash_from_args(args)
